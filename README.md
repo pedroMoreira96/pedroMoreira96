@@ -1,40 +1,28 @@
-<!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hi 👋, I'm
-                <b><a target="_blank" href="https://chirags-portfolio.vercel.app">Chirag Jain</a></b>
+        <samp>&gt; Hello 👋, I'm
+                <b><a target="_blank" href="">Pedro Moreira</a> <</b>
         </samp>
 </h3>
 
 
 <p align="center">
-        <samp>「 Hi, I'm a dedicated web developer based in Rajasthan, India. Drawing from a foundation in cloud computing and proficient knowledge of AWS services, I am constantly expanding my expertise in web development. With a diverse skill set, I aim to contribute innovatively to every project. 」
+        <samp> I'm the ex environmental engineer that found a new passion for programming, navigating my way through forests of code and preserving the digital ecosystem with the same enthusiasm I have for the great outdoors./n
+                When I'm not debugging, you'll find me strumming my guitar or lost in the cinematic realms of nerdy movies. I'm blending my love for nature with programming to create sustainable solutions one line of code at a time./n
+So, if you're looking for a developer who can both optimize algorithms and harmonize melodies, I'm your eco-conscious coder ready to make a positive impact.
         </samp>
 </p>
 
 
 <p align="center">
- <a href="https://chirags-portfolio.vercel.app" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white"/>
- </a>
- <a href="https://www.linkedin.com/in/chirag-jain-77aa30148/" target="_blank">
+ <a href="https://www.linkedin.com/in/pedroarmoreira/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
-        <!-- <a href="https://dev.to/chiragjain307" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="chirag" />
- </a> -->
- <a href="https://twitter.com/mr_kasliwal" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
- </a>
- <a href="https://www.instagram.com/_mr_kasliwal_" target="_blank">
+ <a href="https://www.instagram.com/pedro25moreira/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"/>
- </a> 
-<!--  <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a> 
-</p> -->
+ </a>
+
 <br />
 
-<!-- About Section -->
  # About me
  
 <p>
