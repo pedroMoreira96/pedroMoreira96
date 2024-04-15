@@ -58,8 +58,8 @@ So, if you're looking for a developer who can both optimize algorithms and harmo
 ## Repositories
 
 [![MasterFighter](https://github-readme-stats.vercel.app/api/pin/?username=pedroMoreira96&repo=MasterFighter&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/pedroMoreira96/MasterFighter)
-[![PaintdaWish](https://github.com/pedroMoreira96/PaintDaWish/edit/main/README.md&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/pedroMoreira96/PaintDaWish)
-[![MasterFighter](https://github-readme-stats.vercel.app/api/pin/?username=chiragjain307&repo=Portfolio-Website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/pedroMoreira96/MasterFighter)
+[![PaintdaWish](https://github-readme-stats.vercel.app/api/pin/?username=pedroMoreira96&repo=PaintDaWish&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/pedroMoreira96/PaintDaWish)
+[![FakeTinder](https://github-readme-stats.vercel.app/api/pin/?username=pedroMoreira96&repo=FakeTinder&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/pedroMoreira96/FakeTinder)
 
 <p align="left">
   <a href="https://github.com/pedroMoreira96?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
