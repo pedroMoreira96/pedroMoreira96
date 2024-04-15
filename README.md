@@ -26,40 +26,33 @@ So, if you're looking for a developer who can both optimize algorithms and harmo
  
 <p>
 
- 🍇 &emsp; Born in the Douro region, in Portugal <br/><br/>
- 🌲 &emsp; Graduated in Environmental Engineering <br/><br/>
+ 🍇 &emsp; Born in Portugal's Douro region <br/><br/>
+ 🌲 &emsp; Previous Environmental Engineering <br/><br/>
  💻 &emsp; Code cadet at Code For All_ Full Stack Bootcamp <br/><br/>
- 🔎 &emsp; Searching for an opportunity to show my skills
+ 🔎 &emsp; Searching for an opportunity to show my skills <br/><br/>
 
 </p>
 
 <br/>
-<br/>
-<br/>
 
 ## Skills
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&labelColor=black&logo=sql&logoColor=4479A1)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&labelColor=black&logo=spring&logoColor=6DB33F)
-![Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&labelColor=black&logo=apache-tomcat&logoColor=F8DC75)
-![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&labelColor=black&logo=apache-maven&logoColor=C71A36)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&labelColor=black&logo=jquery&logoColor=0769AD)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,javascript,html,css,git,mysql,bootstrap,spring,hibernate,maven,jquery,visualstudio,vim,postman" />
+  </a>
+</p>
 
 <br/>
 
 ## Repositories
 
+
+
 [![MasterFighter](https://github-readme-stats.vercel.app/api/pin/?username=pedroMoreira96&repo=MasterFighter&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/pedroMoreira96/MasterFighter)
 [![PaintdaWish](https://github-readme-stats.vercel.app/api/pin/?username=pedroMoreira96&repo=PaintDaWish&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/pedroMoreira96/PaintDaWish)
 [![FakeTinder](https://github-readme-stats.vercel.app/api/pin/?username=pedroMoreira96&repo=FakeTinder&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/pedroMoreira96/FakeTinder)
+[![Chat-server](https://github-readme-stats.vercel.app/api/pin/?username=pedroMoreira96&repo=Chat-server&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/pedroMoreira96/Chat-server)
 
 <p align="left">
   <a href="https://github.com/pedroMoreira96?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
