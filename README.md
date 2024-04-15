@@ -19,9 +19,12 @@ So, if you're looking for a developer who can both optimize algorithms and harmo
  <a href="https://www.linkedin.com/in/pedroarmoreira/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
-<a href="mailto:pedro25moreira@gmail.com" target="_blank">
+ <a href="mailto:pedro25moreira@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
- </a>     
+ </a>
+ <a href="" download>
+  <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
+ </a>
  <a href="https://www.instagram.com/pedro25moreira/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"/>
  </a>
@@ -34,7 +37,7 @@ So, if you're looking for a developer who can both optimize algorithms and harmo
 <p>
 
  🍇 &emsp; Born in Portugal's Douro region <br/><br/>
- 🌲 &emsp; Previous Environmental Engineering <br/><br/>
+ 🌲 &emsp; Previous Environmental Engineer <br/><br/>
  💻 &emsp; Code cadet at Code For All_ Full Stack Bootcamp <br/><br/>
  🔎 &emsp; Searching for an opportunity to show my skills <br/><br/>
 
