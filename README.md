@@ -22,7 +22,7 @@ So, if you're looking for a developer who can both optimize algorithms and harmo
  <a href="mailto:pedro25moreira@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
  </a>
- <a href="" download>
+ <a href="cv_PedroMoreira.pdf" download>
   <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
  </a>
  <a href="https://www.instagram.com/pedro25moreira/" target="_blank">
@@ -32,7 +32,7 @@ So, if you're looking for a developer who can both optimize algorithms and harmo
 
 <br />
 
- # About me
+ ## About me
  
 <p>
 
