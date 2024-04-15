@@ -1,12 +1,15 @@
+<img src="pedro.png"/>
+
+
 <h3 align="center">
-        <samp>&#127808; Hello, My name is Pedro Moreira &#127808;</b>
+        <samp>&#127808; Hello, my name is Pedro Moreira &#127808;</b>
         </samp>
 </h3>
 
 
 <p align="center">
-        <samp> > I'm the ex environmental engineer that found a new passion for programming, navigating my way through forests of code and preserving the digital ecosystem with the same enthusiasm I have for the great outdoors./n
-                When I'm not debugging, you'll find me strumming my guitar or lost in the cinematic realms of nerdy movies. I'm blending my love for nature with programming to create sustainable solutions one line of code at a time./n
+        <samp> > I'm the ex environmental engineer that found a new passion for programming, navigating my way through forests of code and preserving the digital ecosystem with the same enthusiasm I have for the great outdoors.
+                When I'm not debugging, you'll find me strumming my guitar or lost in the cinematic realms of nerdy movies. I'm blending my love for nature with programming to create sustainable solutions one line of code at a time.
 So, if you're looking for a developer who can both optimize algorithms and harmonize melodies, I'm your eco-conscious coder ready to make a positive impact. <
         </samp>
 </p>
@@ -16,9 +19,13 @@ So, if you're looking for a developer who can both optimize algorithms and harmo
  <a href="https://www.linkedin.com/in/pedroarmoreira/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
+<a href="mailto:pedro25moreira@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+ </a>     
  <a href="https://www.instagram.com/pedro25moreira/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"/>
  </a>
+
 
 <br />
 
