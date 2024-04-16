@@ -23,7 +23,7 @@ So, if you're looking for a developer who can both optimize algorithms and harmo
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
  </a>
  <a href="cv_PedroMoreira.pdf" download>
-  <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=Github&logoColor=white"/>
  </a>
  <a href="https://www.instagram.com/pedro25moreira/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"/>
