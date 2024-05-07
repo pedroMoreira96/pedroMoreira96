@@ -35,7 +35,7 @@ So, if you're looking for a developer who can both optimize algorithms and harmo
 
  🍇 &emsp; Born in Portugal's Douro region <br/><br/>
  🌲 &emsp; Previous Environmental Engineer <br/><br/>
- 💻 &emsp; Code cadet at Code For All_ Full Stack Bootcamp <br/><br/>
+ 💻 &emsp; Alumni at Code For All_ Full Stack Bootcamp <br/><br/>
  🔎 &emsp; Searching for an opportunity to show my skills <br/><br/>
  
 
