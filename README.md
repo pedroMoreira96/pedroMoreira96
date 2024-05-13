@@ -36,6 +36,7 @@ So, if you're looking for a developer who can both optimize algorithms and harmo
  🍇 &emsp; Born in Portugal's Douro region <br/><br/>
  🌲 &emsp; Previous Environmental Engineer <br/><br/>
  💻 &emsp; Alumni at Code For All_ Full Stack Bootcamp <br/><br/>
+ ☁️ &emsp; Currently undertaking the AWS re/Start program <br/><br/>
  🔎 &emsp; Searching for an opportunity to show my skills <br/><br/>
  
 
@@ -47,7 +48,7 @@ So, if you're looking for a developer who can both optimize algorithms and harmo
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,html,css,git,mysql,bootstrap,spring,hibernate,maven,jquery,visualstudio,vim,postman" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,html,css,git,mysql,bootstrap,spring,hibernate,maven,jquery,visualstudio,vim,postman,aws" />
   </a>
 </p>
 
