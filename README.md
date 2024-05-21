@@ -60,7 +60,7 @@ So, if you're looking for a developer who can both optimize algorithms and harmo
 
 [![MasterFighter](https://github-readme-stats.vercel.app/api/pin/?username=pedroMoreira96&repo=MasterFighter&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/pedroMoreira96/MasterFighter)
 [![PaintdaWish](https://github-readme-stats.vercel.app/api/pin/?username=pedroMoreira96&repo=PaintDaWish&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/pedroMoreira96/PaintDaWish)
-[![FakeTinder](https://github-readme-stats.vercel.app/api/pin/?username=pedroMoreira96&repo=FakeTinder&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/pedroMoreira96/FakeTinder)
+[![PokemonSPA](https://github-readme-stats.vercel.app/api/pin/?username=pedroMoreira96&repo=PokemonSPA&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/pedroMoreira96/PokemonSPA)
 [![Chat-server](https://github-readme-stats.vercel.app/api/pin/?username=pedroMoreira96&repo=Chat-server&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/pedroMoreira96/Chat-server)
 
 <p align="left">
